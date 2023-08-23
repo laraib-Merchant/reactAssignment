@@ -1,10 +1,11 @@
 import Display from "./components/display/Display";
+import Routes from "./routes/Routes";
 
 
 function App() {
   return (
     <div className="App">
-      <Display />
+      <Routes />
     </div>
   );
 }
